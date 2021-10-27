@@ -1,0 +1,2 @@
+#!/bin/bash
+roslaunch darknet_ros yolov4.launch
