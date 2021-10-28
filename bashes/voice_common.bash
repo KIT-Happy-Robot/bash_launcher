@@ -13,7 +13,7 @@ else
 fi
 
 #仮想環境へ入る
-. ~/test_ws/src/happymimi_voice_common/envs/bin/activate
+. ~/test_ws/src/happymimi_voice/envs/bin/activate
 
 #launchファイルを起動
 roslaunch happymimi_voice_common voice_common.launch
