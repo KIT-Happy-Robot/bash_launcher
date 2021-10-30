@@ -6,3 +6,4 @@ cd $HOME/test_ws/src/bash_launcher/bashes
 
 gnome-terminal \
     $tab 'bash -c "sleep 1.0 ; ./actplan_executor.bash"'\
+    $tab 'bash -c "sleep 1.4 ; ./actplan_generator.bash"'\
