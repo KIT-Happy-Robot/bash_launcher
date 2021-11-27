@@ -9,4 +9,4 @@ gnome-terminal \
     $tab 'bash -c "sleep 1.0 ; ./grasping_object.bash"'\
     $tab 'bash -c "sleep 1.2 ; ./recognition_processing.bash"'\
     $tab 'bash -c "sleep 1.4 ; ./three_deimensional.bash"'\
-    $tab 'bash -c "sleep 1.8 ; ./darknet_yolov4.bash"'\
+    $tab 'bash -c "sleep 1.8 ; ./darknet_yolov3.bash"'\

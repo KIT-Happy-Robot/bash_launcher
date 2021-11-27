@@ -1,6 +1,6 @@
 #!/bin/bash
 
-学内proxyを経由するかどうか確認
+# 学内proxyを経由するかどうか確認
  net=$(iwgetid -r)
  if [ "$net" = "KIT-WLAP2" ]; then
    export https_proxy=http://wwwproxy.kanazawa-it.ac.jp:8080/
