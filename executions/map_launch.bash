@@ -8,9 +8,6 @@ gnome-terminal \
     $tab 'roscore'\
     $tab 'bash -c "sleep 1.0 ; ./minimal.bash; bash"'\
     $tab 'bash -c "sleep 1.2 ; ./sensor.bash; bash"'\
-    $tab 'bash -c "sleep 1.4 ; ./amcl.bash; bash"'\
+    $tab 'bash -c "sleep 1.4 ; ./gmapping.bash; bash"'\
     $tab 'bash -c "sleep 1.4 ; ./rviz_navi.bash; bash"'\
-    $tab 'bash -c "sleep 1.6 ; ./voice_common.bash; bash"'\
-    $tab 'bash -c "sleep 1.6 ; ./approach_person.bash; bash"'\
-    $tab 'bash -c "sleep 2.0 ; ./ros_openpose.bash; bash"'\
-    #$tab 'bash -c "sleep 2.0 ; ./rs_camera.bash; bash"'\
+    $tab 'bash -c "sleep 1.0 ; ./set_location.bash; bash"'\   
