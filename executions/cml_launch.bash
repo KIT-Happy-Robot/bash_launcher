@@ -11,6 +11,6 @@ gnome-terminal \
     $tab 'bash -c "sleep 1.4 ; ./amcl.bash; bash"'\
     $tab 'bash -c "sleep 1.4 ; ./rviz_navi.bash; bash"'\
     $tab 'bash -c "sleep 1.6 ; ./voice_common.bash; bash"'\
-    $tab 'bash -c "sleep 2.0 ; ./ros_openpose.bash; bash"'\
     $tab 'bash -c "sleep 1.0 ; ./left_right.bash; bash"'\
     $tab 'bash -c "sleep 1.5 ; ./chaser19.bash; bash"'\
+    #$tab 'bash -c "sleep 2.0 ; ./ros_openpose.bash; bash"'\
